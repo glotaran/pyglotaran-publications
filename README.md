@@ -1,5 +1,23 @@
 # pyglotaran-publications
 
+This repository collects references to (scientific) publications, tutorials or projects that make used of the pyglotaran software in some way, in the hope that these examples are useful to the community.
+
+- References are organized [by year](#by-year).
+- Every now and then, a new publication will be placed in the [spotlight](#spotlight).
+
+## Spotlight
+
+✨ **Pyglotaran: a lego-like Python framework for global and target analysis of time-resolved spectra**
+
+[DETAILS ON SPOTLIGHT PAGE](SPOTLIGHT.md)
+
+## By year
+### [[2023]](2023/README.md)
+- pyglotaran: a lego-like Python framework for global and target analysis of time resolved spectra ([10.1007/s43630-023-00460-y](https://doi.org/10.1007/s43630-023-00460-y))
+
+## Contributing
+
+See the [contributin guide](CONTRIBUTING.md) if you wish to add you own reference.
 
 ## License
 
