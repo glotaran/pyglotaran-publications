@@ -20,12 +20,13 @@ The novel features are showcased through three case studies, for which Jupyter n
    3. [rc/target_rcg_gcrcg_rcgcr_refine_part3.ipynb](https://github.com/glotaran/pyglotaran-release-paper-supplementary-information/releases/download/accepted-for-publication/target_rcg_gcrcg_rcgcr_refine_part3.ipynb)
 3. The final case study elucidates the energy transfer pathways in the time-resolved emission of whole photosynthetic cells, characterizing the contributions of numerous megacomplexes. These studies span systems ranging from singular chromophores to a megacomplex of approximately 500, with temporal resolutions between ≈10 fs to ≈10 ps.
    1. [dPSI/ex_four_datasets_two_guidance_with_area_irf-with_sum_plot_minimal.ipynb
-](https://github.com/glotaran/pyglotaran-release-paper-supplementary-information/releases/download/accepted-for-publication/ex_four_datasets_two_guidance_with_area_irf-with_sum_plot_minimal.ipynb)
+      ](https://github.com/glotaran/pyglotaran-release-paper-supplementary-information/releases/download/accepted-for-publication/ex_four_datasets_two_guidance_with_area_irf-with_sum_plot_minimal.ipynb)
 
 The figure below visually summarizes the results from the first case-study. All plots are generate using [pyglotaran](https://github.com/glotaran/pyglotaran) and the plotting package [pyglotaran-extras](https://github.com/glotaran/pyglotaran-extras).
 
-![Figure 1](images/10.1007_s43630-023-00460-y/Fig1.png)
+![Figure 1](images/spotlight_figure1.png)
 [Figure 1](https://link.springer.com/article/10.1007/s43630-023-00460-y/figures/1) of [10.1007_s43630-023-00460-y](https://doi.org/10.1007/s43630-023-00460-y) (reproduced as is) showing axample of a
+
 - time-resolved difference absorption Spectrum and fit thereof (row 1),
 - with the help of a compartmental model (row 2),
 - the damped oscillations (row 3),
