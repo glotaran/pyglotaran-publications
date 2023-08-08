@@ -1,5 +1,30 @@
 # pyglotaran-publications
 
+This repository collects references to (scientific) publications, tutorials or projects that make used of the pyglotaran software in some way, in the hope that these examples are useful to the community.
+
+- References are organized [by year](#by-year).
+- Every now and then, a new publication will be placed in the [spotlight](#spotlight).
+
+## Spotlight
+
+✨ **Pyglotaran: a lego-like Python framework for global and target analysis of time-resolved spectra**
+
+<!-- prettier-ignore-start -->
+| [<img src="images/spotlight_abstract.png" width=400>](SPOTLIGHT.md) | 📈 Fitting time-resolved spectroscopy (TRS) data in Python. <br><br> 🔬 Variable Projection <br> 🤸‍♂️ Flexible model specification <br> 📓 Jupyter Notebook Support|
+| - | - |
+<!-- prettier-ignore-end -->
+
+## Publications by year
+
+### [2023](2023/README.md)
+
+- [pyglotaran: a lego-like Python framework for global and target analysis of time resolved spectra](2023/README.md#📚-pyglotaran-a-lego-like-python-framework-for-global-and-target-analysis-of-time-resolved-spectra)
+  <br>📅 2023-07-31
+  <br>🔗 DOI: [10.1007/s43630-023-00460-y](https://doi.org/10.1007/s43630-023-00460-y)
+
+## Contributing
+
+See the [contributin guide](CONTRIBUTING.md) if you wish to add you own reference.
 
 ## License
 
@@ -11,4 +36,3 @@ These licenses are provided in plain text as a convenience to the user as [LICEN
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-

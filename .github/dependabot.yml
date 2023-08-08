@@ -1,0 +1,10 @@
+version: 2
+updates:
+  # Update git submodules
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: friday
+      time: "20:00"
+      timezone: Europe/Amsterdam
