@@ -73,9 +73,9 @@ git push origin main
 
 Please use the below markdown template, replace the fields in ALL_CAPS with your own text.
 
+<!-- prettier-ignore-start -->
 ```md
 ---
-
 > ### 📚 **[PAPER_TITLE](PAPER_URL)**
 >
 > - 📅 **Publication Date:** MONTH DD, YYYY
@@ -97,3 +97,4 @@ Please use the below markdown template, replace the fields in ALL_CAPS with your
 >
 > YOUR_TEXT_HERE
 ```
+<!-- prettier-ignore-end -->
