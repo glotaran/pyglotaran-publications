@@ -82,7 +82,8 @@ Please use the below markdown template, replace the fields in ALL_CAPS with your
 > - 📘 **Journal:** JOURNAL_NAME
 > - 🔗 **DOI:** [DOI_NUMBER](DOI_URL)
 >
-> [🔍 EG_MORE_DETAILS](URL_1)<br> > [💻 EG_LINK_2_CODE](URL_2)<br>
+> [🔍 EG_MORE_DETAILS](URL_1)<br>
+> [💻 EG_LINK_2_CODE](URL_2)<br>
 >
 > ---
 >
