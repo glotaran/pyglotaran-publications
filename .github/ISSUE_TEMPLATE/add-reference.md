@@ -17,27 +17,30 @@ Requesting to add the reference below:
 
 ---
 
+<!-- prettier-ignore-start -->
+
 > ### 📚 **[PAPER_TITLE](PAPER_URL)**
 >
 > - 📅 **Publication Date:** MONTH DD, YYYY
 > - 📘 **Journal:** JOURNAL_NAME
 > - 🔗 **DOI:** [DOI_NUMBER](DOI_URL)
 >
-> [🔍 EG_MORE_DETAILS](URL_1) > [💻 EG_LINK_2_CODE](URL_2)
+> [🔍 EG_MORE_DETAILS](URL_1)<br>
+> [💻 EG_LINK_2_CODE](URL_2)<br>
 >
 > ---
 >
 > #### 🔍 Key Highlights:
 >
-> ✨ KEY_HIGHLIGHT_1
-> ✨ KEY_HIGHLIGHT_2
-> ✨ KEY_HIGHLIGHT_3
+> ✨ KEY_HIGHLIGHT_1<br>
+> ✨ KEY_HIGHLIGHT_2<br>
+> ✨ KEY_HIGHLIGHT_3<br>
 >
 > #### 🔗 Funding | Additional Links:
 >
 > YOUR_TEXT_HERE
 
----
+<!-- prettier-ignore-end -->
 
 ## Checklist
 
