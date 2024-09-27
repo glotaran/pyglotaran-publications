@@ -32,7 +32,6 @@ This repository collects references to (scientific) publications, tutorials or p
   <br>📅 2023-07-31
   <br>🔗 DOI: [10.1007/s43630-023-00460-y](https://doi.org/10.1007/s43630-023-00460-y)
 
-
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) if you wish to add you own reference.
