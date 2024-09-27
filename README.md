@@ -16,15 +16,25 @@ This repository collects references to (scientific) publications, tutorials or p
 
 ## Publications by year
 
+### [2024](2024/README.md)
+
+- **[Target Analysis Resolves the Ground and Excited State Properties from Femtosecond Stimulated Raman Spectra](2024/README.md)**
+  <br>📅 2024-09-06
+  <br>🔗 DOI: [10.1021/acs.jpclett.4c01555](https://doi.org/10.1021/acs.jpclett.4c01555)
+
 ### [2023](2023/README.md)
 
-- [pyglotaran: a lego-like Python framework for global and target analysis of time resolved spectra](2023/README.md#📚-pyglotaran-a-lego-like-python-framework-for-global-and-target-analysis-of-time-resolved-spectra)
+- **[Energy transfer and trapping in photosystem I with and without chlorophyll-f](<https://www.cell.com/iscience/fulltext/S2589-0042(23)01727-3>)**
+  <br>📅 2023-08-14
+  <br>🔗 DOI: [10.1016/j.isci.2023.107650](https://doi.org/10.1016/j.isci.2023.107650)
+
+- **[pyglotaran: a lego-like Python framework for global and target analysis of time resolved spectra](2023/README.md#📚-pyglotaran-a-lego-like-python-framework-for-global-and-target-analysis-of-time-resolved-spectra)**
   <br>📅 2023-07-31
   <br>🔗 DOI: [10.1007/s43630-023-00460-y](https://doi.org/10.1007/s43630-023-00460-y)
 
 ## Contributing
 
-See the [contributin guide](CONTRIBUTING.md) if you wish to add you own reference.
+See the [contributing guide](CONTRIBUTING.md) if you wish to add you own reference.
 
 ## License
 
